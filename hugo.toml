@@ -1,0 +1,164 @@
+baseURL = "https://sota-inoue.github.io/"
+title = "Sota Inoue"
+theme = "congo"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+disableKinds = ["taxonomy", "term"]
+enableRobotsTXT = true
+summaryLength = 0
+
+[pagination]
+  pagerSize = 10
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+  [markup.highlight]
+    noClasses = false
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+
+[params]
+  colorScheme = "congo"
+  defaultAppearance = "light"
+  autoSwitchAppearance = false
+  enableSearch = false
+  enableCodeCopy = false
+  enableImageLazyLoading = true
+  enableImageWebp = true
+  fingerprintAlgorithm = "sha256"
+  mainSections = []
+
+  [params.header]
+    layout = "basic"
+    showTitle = true
+
+  [params.footer]
+    showCopyright = true
+    showThemeAttribution = true
+    showAppearanceSwitcher = false
+    showScrollToTop = true
+
+  [params.homepage]
+    layout = "page"
+    showRecent = false
+
+  [params.article]
+    showDate = false
+    showDateUpdated = false
+    showAuthor = false
+    showBreadcrumbs = false
+    showDraftLabel = true
+    showEdit = false
+    showHeadingAnchors = true
+    showPagination = false
+    showReadingTime = false
+    showTableOfContents = false
+    showTaxonomies = false
+    showWordCount = false
+    showComments = false
+
+  [params.list]
+    showBreadcrumbs = false
+    showSummary = false
+    showTableOfContents = false
+    showTaxonomies = false
+
+  [params.sitemap]
+    excludedKinds = ["taxonomy", "term"]
+
+[languages]
+  [languages.en]
+    locale = "en-us"
+    label = "English"
+    direction = "ltr"
+    contentDir = "content/en"
+    title = "Sota Inoue"
+    weight = 1
+    [languages.en.params]
+      dateFormat = "2 January 2006"
+      description = "Academic personal website"
+      [languages.en.params.author]
+        name = "Sota Inoue"
+    [[languages.en.menu.main]]
+      name = "Home"
+      pageRef = "/"
+      weight = 10
+    [[languages.en.menu.main]]
+      name = "About"
+      pageRef = "/about"
+      weight = 20
+    [[languages.en.menu.main]]
+      name = "Research"
+      pageRef = "/research"
+      weight = 30
+    [[languages.en.menu.main]]
+      name = "CV"
+      pageRef = "/cv"
+      weight = 40
+    [[languages.en.menu.main]]
+      name = "Publications"
+      pageRef = "/publications"
+      weight = 50
+    [[languages.en.menu.main]]
+      name = "Links"
+      pageRef = "/links"
+      weight = 60
+    [[languages.en.menu.main]]
+      identifier = "locale"
+      weight = 100
+      [languages.en.menu.main.params]
+        action = "locale"
+
+  [languages.ja]
+    locale = "ja"
+    label = "日本語"
+    direction = "ltr"
+    contentDir = "content/ja"
+    title = "井上 壮太"
+    weight = 2
+    [languages.ja.params]
+      dateFormat = "2006年1月2日"
+      description = "Academic personal website"
+      [languages.ja.params.author]
+        name = "井上 壮太"
+    [[languages.ja.menu.main]]
+      name = "ホーム"
+      pageRef = "/"
+      weight = 10
+    [[languages.ja.menu.main]]
+      name = "自己紹介"
+      pageRef = "/about"
+      weight = 20
+    [[languages.ja.menu.main]]
+      name = "研究"
+      pageRef = "/research"
+      weight = 30
+    [[languages.ja.menu.main]]
+      name = "CV"
+      pageRef = "/cv"
+      weight = 40
+    [[languages.ja.menu.main]]
+      name = "業績"
+      pageRef = "/publications"
+      weight = 50
+    [[languages.ja.menu.main]]
+      name = "リンク"
+      pageRef = "/links"
+      weight = 60
+    [[languages.ja.menu.main]]
+      identifier = "locale"
+      weight = 100
+      [languages.ja.menu.main.params]
+        action = "locale"
