@@ -33,6 +33,7 @@ My research interests lie in computational approaches to human learning, decisio
 - MSc Neuroscience Student, University of Freiburg
 - DAAD Scholarship Recipient
 - Research Assistant in the [Neuropsychology Lab, University of Freiburg](https://uni-freiburg.de/neuropsychologie/), June-September 2026
+- Software / Data Analysis Intern at [Nocnum](https://nocnum.com), working on IoT water purification monitoring, sensor data analysis, and domain-specific RAG systems
 - B.Eng. Electrical and Electronic Engineering, Kyoto University
 - Master's student in Computational Neuroscience at Kyoto University, currently on leave after completing the first semester
 

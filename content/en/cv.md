@@ -43,6 +43,8 @@ Bachelor thesis: *Computational Modeling of Decision-Making Integrating Self-Lea
 
 **April 2024-March 2025**
 
+Affiliated with [Ishii Lab](https://ishiilab.jp/jp/members.html).
+
 - Conducted a bachelor thesis project on self-learning and observational learning
 - Designed and analyzed a behavioral decision-making experiment
 - Modeled observational learning using reinforcement learning and inverse reinforcement learning
@@ -55,6 +57,17 @@ Bachelor thesis: *Computational Modeling of Decision-Making Integrating Self-Lea
 - Assisted with human fMRI experiments
 - Gained experience with neuroimaging data acquisition and analysis workflows
 - Research experience at [ATR](https://www.atr.jp/index.html)
+
+## Industry Experience
+
+### Software / Data Analysis Intern, [Nocnum](https://nocnum.com), Japan
+
+**April 2024-present**
+
+- Developed IoT-based water purification monitoring systems using TypeScript, Node.js, React, and Docker
+- Worked on sensor-based data acquisition by integrating electronic hardware and software components
+- Analyzed water quality sensor data and implemented clustering-based analysis pipelines in Python
+- Developed a domain-specific RAG system for wastewater treatment management, integrating technical documentation, literature, operational knowledge, and sensor data to support expert decision-making
 
 ## Honors and Awards
 

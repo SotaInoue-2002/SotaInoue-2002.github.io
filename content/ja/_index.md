@@ -33,6 +33,7 @@ showTitle: false
 - フライブルク大学 神経科学修士課程
 - DAAD奨学生
 - [フライブルク大学 Neuropsychology Lab](https://uni-freiburg.de/neuropsychologie/), HiWi Research Assistant（2026年6月-9月）
+- [Nocnum](https://nocnum.com) Software / Data Analysis Intern（IoT水質浄化モニタリング、センサーデータ解析、ドメイン特化型RAGシステム）
 - 京都大学 工学部 電気電子工学科卒業
 - 京都大学大学院 情報学研究科 計算論的神経科学 修士課程在籍・休学中
 
