@@ -4,7 +4,7 @@ title: "Home"
 
 # Sota Inoue
 
-Sota Inoue (井上創太) is an MSc Neuroscience student at the University of Freiburg and a DAAD Scholarship Recipient. His academic interests are centered on computational neuroscience, learning and decision-making, reinforcement learning, inverse reinforcement learning, EEG, fMRI, and neurotechnology.
+Sota Inoue (井上創太) is an MSc Neuroscience student at the University of Freiburg and a [DAAD](https://www.daad.de/de/) Scholarship Recipient. His academic interests are centered on computational neuroscience, learning and decision-making, reinforcement learning, inverse reinforcement learning, EEG, fMRI, and neurotechnology.
 
 ## Research Focus
 

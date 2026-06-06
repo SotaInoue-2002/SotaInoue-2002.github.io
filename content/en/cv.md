@@ -54,33 +54,29 @@ Bachelor thesis: *Computational Modeling of Decision-Making Integrating Self-Lea
 
 ## Honors and Awards
 
-### DAAD Master's Scholarship
+### [DAAD](https://www.daad.de/de/) Master's Scholarship
 
 **German Academic Exchange Service (DAAD), 2025-2027**
 
 Awarded for academic performance and research potential.
 
-### TA Award, Electronics Spring Camp
+### Electronics Spring/Summer Camp, Kyoto University
 
-**Kyoto University, Department of Electrical and Electronic Engineering, Spring 2022**
+**Department of Electrical and Electronic Engineering, 2022**  
+[Program information](https://www.s-ee.t.kyoto-u.ac.jp/ja/summercamp)
 
-Awarded for team-based electronic system design using LEGO Mindstorms.
-
-### Grand Prize, Electronics Summer Camp
-
-**Kyoto University, Department of Electrical and Electronic Engineering, Summer 2022**
-
-Received the Iwakabe Special Award for an Arduino-based line-tracing robotic system.
+- TA Award, Spring 2022: team-based electronic system design using LEGO Mindstorms
+- Grand Prize / Iwakabe Special Award, Summer 2022: Arduino-based line-tracing robotic system
 
 ## Teaching and Academic Engagement
 
-### Kyoto Consortium for Japanese Studies
+### [Kyoto Consortium for Japanese Studies](https://www.kcjs.jp)
 
 **Support Instructor, September 2022-September 2024**
 
 - Supported international students in Japanese language learning and academic adaptation
 
-### Kyoto University International Summer Program
+### [Kyoto University International Summer Program](https://www.z.k.kyoto-u.ac.jp/summer-spring-program/)
 
 **Participant, 2022; Organizer, 2023**
 
@@ -91,6 +87,30 @@ Received the Iwakabe Special Award for an Arduino-based line-tracing robotic sys
 **Vietnam National University, Hanoi, February-March 2023**
 
 - Led a student team in an intercultural academic presentation
+
+## Presentations and Outreach
+
+### [DAAD Japan: Master's and Doctoral Study in Germany](https://www.daad.jp/ja/event/youtubelive-20260514/)
+
+**Online presentation / YouTube Live, May 2026**
+
+- Presented information on graduate study in Germany.
+- [YouTube recording](https://www.youtube.com/watch?v=YHhIa9hAhLk)
+
+### [Japanese Association of Graduate Students in the U.S.: Overseas Graduate Study Information Session 2025 Winter](https://gakuiryugaku.net/seminar/5961)
+
+**Online presentation, 2025**
+
+- Presented at an online information session on overseas graduate study.
+- [YouTube recording](https://www.youtube.com/watch?v=S79O7GE0oKg&t=113s)
+
+## Leadership
+
+### [LinkedIn Student Club Japan / LSCW](https://lscw.scoutalia.com/)
+
+**Kansai Branch Leader, June-November 2025**
+
+- Organized LSCW, a student career event run by LinkedIn Student Club Japan, an official LinkedIn Japan student ambassador organization.
 
 ## Technical and Research Skills
 

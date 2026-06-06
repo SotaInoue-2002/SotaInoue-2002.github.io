@@ -54,33 +54,29 @@ title: "CV"
 
 ## 奨学金・受賞
 
-### DAAD Master's Scholarship
+### [DAAD](https://www.daad.de/de/) Master's Scholarship
 
 **German Academic Exchange Service, 2025-2027**
 
 学業成績および研究ポテンシャルに基づく奨学金。
 
-### TA Award, Electronics Spring Camp
+### Electronics Spring/Summer Camp, 京都大学
 
-**京都大学 工学部 電気電子工学科, 2022年春**
+**工学部 電気電子工学科, 2022年**  
+[プログラム情報](https://www.s-ee.t.kyoto-u.ac.jp/ja/summercamp)
 
-LEGO Mindstorms を用いたチームでの電子システム設計により受賞。
-
-### Grand Prize, Electronics Summer Camp
-
-**京都大学 工学部 電気電子工学科, 2022年夏**
-
-Arduino を用いたライントレーシングロボットの開発により、Iwakabe Special Award を受賞。
+- TA Award, 2022年春: LEGO Mindstorms を用いたチームでの電子システム設計
+- Grand Prize / Iwakabe Special Award, 2022年夏: Arduino を用いたライントレーシングロボットの開発
 
 ## 教育・国際交流活動
 
-### Kyoto Consortium for Japanese Studies
+### [Kyoto Consortium for Japanese Studies](https://www.kcjs.jp)
 
 **Support Instructor, 2022年9月-2024年9月**
 
 - 留学生の日本語学習および日本での学術的適応を支援
 
-### Kyoto University International Summer Program
+### [Kyoto University International Summer Program](https://www.z.k.kyoto-u.ac.jp/summer-spring-program/)
 
 **Participant, 2022; Organizer, 2023**
 
@@ -91,6 +87,30 @@ Arduino を用いたライントレーシングロボットの開発により、
 **Vietnam National University, Hanoi, 2023年2月-3月**
 
 - 異文化交流をテーマとした学生チームの発表を主導
+
+## 登壇・アウトリーチ
+
+### [DAAD Japan: ドイツの修士・博士課程](https://www.daad.jp/ja/event/youtubelive-20260514/)
+
+**オンライン登壇 / YouTube Live, 2026年5月**
+
+- ドイツの大学院進学に関する情報提供に登壇。
+- [YouTube録画](https://www.youtube.com/watch?v=YHhIa9hAhLk)
+
+### [米国大学院学生会: 海外大学院留学説明会2025冬](https://gakuiryugaku.net/seminar/5961)
+
+**オンライン登壇, 2025年**
+
+- 海外大学院留学に関するオンライン説明会に登壇。
+- [YouTube録画](https://www.youtube.com/watch?v=S79O7GE0oKg&t=113s)
+
+## リーダーシップ
+
+### [LinkedIn Student Club Japan / LSCW](https://lscw.scoutalia.com/)
+
+**関西支部リーダー, 2025年6月-11月**
+
+- LinkedIn Japan 公式学生アンバサダー団体 LinkedIn Student Club Japan の一員として、学生向けキャリアイベント LSCW の運営に関わった。
 
 ## 技術・研究スキル
 
