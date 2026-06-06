@@ -1,12 +1,30 @@
 ---
 title: "ホーム"
+showTitle: false
 ---
 
-# 井上創太
-
-井上創太（Sota Inoue）は、フライブルク大学 神経科学修士課程に在籍する[DAAD](https://www.daad.de/de/)奨学生です。計算論的神経科学、学習と意思決定、強化学習、逆強化学習、EEG、fMRI、ニューロテクノロジーに関心があります。
+<section class="academic-home-hero">
+  <img class="academic-profile-photo" src="/images/profile.jpg" alt="井上創太のプロフィール写真">
+  <div class="academic-home-identity">
+    <p class="academic-kicker">フライブルク大学 神経科学修士課程</p>
+    <h1>井上創太</h1>
+    <p class="academic-name-ja">Sota Inoue</p>
+    <p>井上創太は、フライブルク大学 神経科学修士課程に在籍する<a href="https://www.daad.de/de/">DAAD</a>奨学生です。ヒトの学習、意思決定、神経活動を計算論的に理解することに関心があります。</p>
+  </div>
+</section>
 
 ## 研究関心
+
+<div class="research-tags" aria-label="研究関心">
+  <span>計算論的神経科学</span>
+  <span>強化学習</span>
+  <span>逆強化学習</span>
+  <span>観察学習</span>
+  <span>意思決定</span>
+  <span>EEG</span>
+  <span>fMRI</span>
+  <span>ニューロテクノロジー</span>
+</div>
 
 ヒトの学習過程、意思決定過程、神経活動を計算論的に理解することに関心があります。特に、強化学習・逆強化学習モデルを行動実験、個人差、EEG、fMRIなどのデータと結びつける研究に取り組みたいと考えています。
 
@@ -20,7 +38,9 @@ title: "ホーム"
 
 ## 関連ページ
 
-- [研究](/ja/research/)
-- [CV](/ja/cv/)
-- [業績](/ja/publications/)
-- [リンク](/ja/links/)
+<nav class="quick-links" aria-label="関連ページ">
+  <a href="/ja/research/">研究</a>
+  <a href="/ja/cv/">CV</a>
+  <a href="/ja/publications/">業績</a>
+  <a href="/ja/links/">リンク</a>
+</nav>

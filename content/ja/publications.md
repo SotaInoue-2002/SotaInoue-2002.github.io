@@ -8,14 +8,14 @@ title: "業績"
 
 ## 登壇・アウトリーチ
 
-### [DAAD Japan: ドイツの修士・博士課程](https://www.daad.jp/ja/event/youtubelive-20260514/)
+### <span class="pub-label">登壇</span> [DAAD Japan: ドイツの修士・博士課程](https://www.daad.jp/ja/event/youtubelive-20260514/)
 
 **オンライン登壇 / YouTube Live, 2026年5月**
 
 - ドイツの大学院進学に関する情報提供に登壇。
 - [YouTube録画](https://www.youtube.com/watch?v=YHhIa9hAhLk)
 
-### [米国大学院学生会: 海外大学院留学説明会2025冬](https://gakuiryugaku.net/seminar/5961)
+### <span class="pub-label">登壇</span> [米国大学院学生会: 海外大学院留学説明会2025冬](https://gakuiryugaku.net/seminar/5961)
 
 **オンライン登壇, 2025年**
 

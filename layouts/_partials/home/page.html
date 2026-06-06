@@ -1,0 +1,13 @@
+<article class="prose max-w-full dark:prose-invert">
+  {{ if (.Params.showTitle | default true) }}
+    {{ with .Title }}
+      <header>
+        <h1>{{ . | emojify }}</h1>
+      </header>
+    {{ end }}
+  {{ end }}
+  <section>{{ .Content | emojify }}</section>
+</article>
+<section>
+  {{ partial "recent-articles.html" . }}
+</section>

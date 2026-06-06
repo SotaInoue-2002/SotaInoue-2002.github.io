@@ -30,7 +30,7 @@ summaryLength = 0
     endLevel = 4
 
 [params]
-  colorScheme = "congo"
+  colorScheme = "academic-blue"
   defaultAppearance = "light"
   autoSwitchAppearance = false
   enableSearch = false

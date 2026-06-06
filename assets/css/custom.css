@@ -1,0 +1,105 @@
+.academic-home-hero {
+  align-items: center;
+  border-bottom: 1px solid rgba(var(--color-neutral-200), 1);
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: minmax(0, 11rem) minmax(0, 1fr);
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+}
+
+.academic-profile-photo {
+  aspect-ratio: 4 / 5;
+  border: 1px solid rgba(var(--color-neutral-200), 1);
+  border-radius: 8px;
+  height: auto;
+  object-fit: cover;
+  object-position: 68% 45%;
+  width: 100%;
+}
+
+.academic-home-identity h1 {
+  font-size: 2.25rem;
+  line-height: 1.1;
+  margin-bottom: 0.25rem;
+  margin-top: 0;
+}
+
+.academic-home-identity p {
+  margin-bottom: 0;
+}
+
+.academic-kicker {
+  color: rgba(var(--color-primary-700), 1);
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0;
+  margin-bottom: 0.4rem;
+}
+
+.academic-name-ja {
+  color: rgba(var(--color-neutral-600), 1);
+  font-size: 1.05rem;
+  margin-bottom: 0.9rem;
+}
+
+.research-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0.5rem 0 1rem;
+}
+
+.research-tags span,
+.pub-label {
+  background: rgba(var(--color-primary-50), 1);
+  border: 1px solid rgba(var(--color-primary-200), 1);
+  border-radius: 999px;
+  color: rgba(var(--color-primary-800), 1);
+  display: inline-flex;
+  font-size: 0.78rem;
+  font-weight: 600;
+  line-height: 1.2;
+  padding: 0.28rem 0.58rem;
+  white-space: nowrap;
+}
+
+.quick-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1rem;
+  margin-top: 0.5rem;
+}
+
+.quick-links a {
+  border-bottom: 1px solid rgba(var(--color-primary-300), 1);
+  color: rgba(var(--color-primary-700), 1);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.quick-links a:hover {
+  border-bottom-color: rgba(var(--color-primary-700), 1);
+}
+
+.pub-label {
+  font-size: 0.72rem;
+  margin-right: 0.35rem;
+  transform: translateY(-0.1rem);
+}
+
+@media (max-width: 640px) {
+  .academic-home-hero {
+    align-items: start;
+    grid-template-columns: 7rem minmax(0, 1fr);
+    gap: 1rem;
+  }
+
+  .academic-home-identity h1 {
+    font-size: 1.8rem;
+  }
+
+  .academic-kicker {
+    font-size: 0.82rem;
+  }
+}
