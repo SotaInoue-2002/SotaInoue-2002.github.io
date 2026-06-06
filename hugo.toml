@@ -31,6 +31,7 @@ summaryLength = 0
 
 [params]
   colorScheme = "academic-blue"
+  defaultThemeColor = "#1e3a8a"
   defaultAppearance = "light"
   autoSwitchAppearance = false
   enableSearch = false
