@@ -126,13 +126,13 @@ summaryLength = 0
     label = "日本語"
     direction = "ltr"
     contentDir = "content/ja"
-    title = "井上 壮太"
+    title = "井上 創太"
     weight = 2
     [languages.ja.params]
       dateFormat = "2006年1月2日"
       description = "Academic personal website"
       [languages.ja.params.author]
-        name = "井上 壮太"
+        name = "井上 創太"
     [[languages.ja.menu.main]]
       name = "ホーム"
       pageRef = "/"
