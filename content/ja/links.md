@@ -9,7 +9,9 @@ title: "リンク"
 
 ## 研究・プロフィール
 
+- [ORCID](https://orcid.org/0009-0001-1131-3913)
 - [LinkedIn](https://www.linkedin.com/in/sota-inoue-941258260)
+- [PDF CV](/cv/CV_Sota-Inoue_20260606.pdf)
 
 ## 奨学金・プログラム・アウトリーチ
 
@@ -33,4 +35,4 @@ title: "リンク"
 - [京都大学 石井研究室](https://ishiilab.jp/jp/members.html)
 - [ATR](https://www.atr.jp/index.html)
 
-ORCID、Google Scholar、GitHub、研究室プロフィールなどは、利用可能になり次第ここに追加します。
+Google Scholar、GitHub、研究室プロフィールなどは、利用可能になり次第ここに追加します。

@@ -9,7 +9,9 @@ title: "Links"
 
 ## Academic and Professional Profiles
 
+- [ORCID](https://orcid.org/0009-0001-1131-3913)
 - [LinkedIn](https://www.linkedin.com/in/sota-inoue-941258260)
+- [PDF CV](/cv/CV_Sota-Inoue_20260606.pdf)
 
 ## Scholarships, Programs, and Outreach
 
@@ -33,4 +35,4 @@ title: "Links"
 - [Ishii Lab, Kyoto University](https://ishiilab.jp/jp/members.html)
 - [ATR](https://www.atr.jp/index.html)
 
-Additional academic profiles such as ORCID, Google Scholar, GitHub, or lab profile links can be added here when available.
+Additional academic profiles such as Google Scholar, GitHub, or lab profile links can be added here when available.
